@@ -4,7 +4,11 @@ draft = false
 title = 'Primer Post'
 +++
 
-# Primer Post
-
 Hola mundo. Este es mi primer post.
+
+
+| Hola        | Mundo |
+| ----------- | ----- |
+| En un lugar |       |
+
 
