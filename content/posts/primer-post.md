@@ -4,11 +4,8 @@ draft = false
 title = 'Primer Post'
 +++
 
-Hola mundo. Este es mi primer post.
-
-
-| Hola        | Mundo |
-| ----------- | ----- |
-| En un lugar |       |
+```
+Este es mi primer posts que se sube automáticamente a halfbeat.github.io y a dev.to.
+```
 
 
