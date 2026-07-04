@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88bdaabd0e67dbca",
+        "id": "470d8432ce6ea0f2",
         "type": "tabs",
         "children": [
           {
-            "id": "11ee6864b608823d",
+            "id": "103fedd6be0fbb9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/primer-post.md",
+                "file": "content/posts/puedo-llegar-mas-lejos.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "primer-post"
+              "title": "puedo-llegar-mas-lejos"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,6 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11ee6864b608823d",
-  "lastOpenFiles": []
+  "active": "103fedd6be0fbb9a",
+  "lastOpenFiles": [
+    "content/posts/primer-post.md",
+    "content/posts/puedo-llegar-mas-lejos.md",
+    "content/posts/puedo-llegar-mas-lejos.md.bak"
+  ]
 }
