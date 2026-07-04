@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "470d8432ce6ea0f2",
+        "id": "88bdaabd0e67dbca",
         "type": "tabs",
         "children": [
           {
-            "id": "103fedd6be0fbb9a",
+            "id": "11ee6864b608823d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/primer-post.md",
+                "file": "content/posts/puedo-llegar-mas-lejos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de primer-post"
+              "title": "Enlaces entrantes de puedo-llegar-mas-lejos"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/primer-post.md",
+                "file": "content/posts/puedo-llegar-mas-lejos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de primer-post"
+              "title": "Enlaces salientes de puedo-llegar-mas-lejos"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/primer-post.md",
+                "file": "content/posts/puedo-llegar-mas-lejos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de primer-post"
+              "title": "Esquema de puedo-llegar-mas-lejos"
             }
           }
         ]
@@ -184,53 +184,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "103fedd6be0fbb9a",
+  "active": "11ee6864b608823d",
   "lastOpenFiles": [
-    "public/page/1/index.html",
-    "public/page/1",
-    "public/page",
-    "config/_default/menus.toml.bak",
-    "config/_default/menus.toml",
-    "config/_default/Nuevo Documento de texto.txt",
-    "config/_default/params.toml.bak",
-    "config/_default/params.toml",
-    "config/_default/Nueva carpeta",
-    "_default/hugo.toml.bak",
-    "_default/hugo.toml",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/index.pt-pt.md",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/index.pt-br.md",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/index.md",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/index.it.md",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/index.fr.md",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/index.de.md",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/index.es.md",
-    "themes/blowfish/exampleSite/content/users/7-25036bf87aa99ef82e09089a1ddbb9eb/feature.webp",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/index.pt-pt.md",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/index.pt-br.md",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/index.md",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/index.it.md",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/index.fr.md",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/index.es.md",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/index.de.md",
-    "themes/blowfish/exampleSite/content/users/69-7596a225b244e0859da338621e680481/feature.webp",
-    "themes/blowfish/exampleSite/content/users/68-033c87b7e950b82ea500c552c9523367/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/68-033c87b7e950b82ea500c552c9523367/index.pt-pt.md",
-    "themes/blowfish/exampleSite/content/users/68-033c87b7e950b82ea500c552c9523367/index.pt-br.md",
-    "themes/blowfish/exampleSite/content/users/68-033c87b7e950b82ea500c552c9523367/index.md",
-    "themes/blowfish/exampleSite/content/users/68-033c87b7e950b82ea500c552c9523367/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/68-033c87b7e950b82ea500c552c9523367/index.it.md",
-    "themes/blowfish/exampleSite/content/users/68-033c87b7e950b82ea500c552c9523367/index.fr.md",
-    "themes/blowfish/exampleSite/content/users/68-033c87b7e950b82ea500c552c9523367/feature.webp",
-    "themes/blowfish/exampleSite/content/users/67-c562b0e606584dd96159faf763291fe1/feature.webp",
-    "themes/blowfish/exampleSite/content/users/66-af89464ac25ab9445658a3541e623778/feature.webp",
-    "themes/blowfish/exampleSite/content/users/65-bdd6b2db27fb40b3fa79a37659b2f285/feature.webp",
-    "public/favicon-32x32.png",
-    "public/favicon-16x16.png",
-    "public/apple-touch-icon.png",
-    "public/android-chrome-512x512.png"
+    "public/js/main.bundle.min.fef019b6dbf2c8a5f03bde7b069135c4b35fd364d9960a16c6dfafbfbb52e8364310f4bfc6f2374575c0b6fb476219636a8b887a7a81a242326e7d1d33251be5.js",
+    "public/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+    "public/css/main.bundle.min.8b635699ff201db155d7e239930418611b7de415f50e04c952a897ef057a60acc1a135b3379030909274ceb51225168bdc21ee027c91668514f7a6bb5066d9b6.css",
+    "hugo_extended_0.163.3_linux-amd64.deb",
+    "hugo_extended_0.147.9_linux-amd64.deb",
+    "themes/blowfish/update-github-data.sh",
+    "themes/blowfish/theme.toml",
+    "themes/blowfish/tailwind.config.js",
+    "themes/blowfish/static/site.webmanifest",
+    "themes/blowfish/static/favicon.ico",
+    "themes/blowfish/static/favicon-32x32.png",
+    "themes/blowfish/static/favicon-16x16.png",
+    "themes/blowfish/static/apple-touch-icon.png",
+    "themes/blowfish/static/android-chrome-512x512.png",
+    "themes/blowfish/static/android-chrome-192x192.png",
+    "themes/blowfish/static",
+    "themes/blowfish/logo.png",
+    "themes/blowfish/images/tn.png",
+    "themes/blowfish/images/screenshot.png",
+    "themes/blowfish/images/home-profile.png",
+    "themes/blowfish/images/home-page.png",
+    "themes/blowfish/exampleSite/content/users/99-f430dff82b8fbb8334091953bfe58598/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/99-f430dff82b8fbb8334091953bfe58598/index.pt-pt.md",
+    "themes/blowfish/exampleSite/content/users/99-f430dff82b8fbb8334091953bfe58598/index.pt-br.md",
+    "themes/blowfish/exampleSite/content/users/99-f430dff82b8fbb8334091953bfe58598/index.md",
+    "themes/blowfish/exampleSite/content/users/99-f430dff82b8fbb8334091953bfe58598/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/99-f430dff82b8fbb8334091953bfe58598/index.it.md",
+    "themes/blowfish/exampleSite/content/users/99-f430dff82b8fbb8334091953bfe58598/index.fr.md",
+    "themes/blowfish/exampleSite/content/users/99-f430dff82b8fbb8334091953bfe58598/index.es.md",
+    "themes/blowfish/exampleSite/content/users/99-f430dff82b8fbb8334091953bfe58598/index.de.md",
+    "themes/blowfish/exampleSite/content/users/98-8f0822721042bca88707da31b1c241e3/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/98-8f0822721042bca88707da31b1c241e3/index.pt-pt.md",
+    "themes/blowfish/exampleSite/content/users/98-8f0822721042bca88707da31b1c241e3/index.pt-br.md",
+    "themes/blowfish/exampleSite/content/users/98-8f0822721042bca88707da31b1c241e3/index.md",
+    "themes/blowfish/exampleSite/content/users/98-8f0822721042bca88707da31b1c241e3/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/98-8f0822721042bca88707da31b1c241e3/index.it.md",
+    "themes/blowfish/exampleSite/content/users/98-8f0822721042bca88707da31b1c241e3/index.fr.md",
+    "themes/blowfish/exampleSite/content/users/98-8f0822721042bca88707da31b1c241e3/index.es.md",
+    "themes/blowfish/exampleSite/content/users/98-8f0822721042bca88707da31b1c241e3/index.de.md",
+    "themes/blowfish/exampleSite/content/users/97-a8ae3ddde64e0cd053837877522e2373/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/97-a8ae3ddde64e0cd053837877522e2373/index.pt-pt.md",
+    "themes/blowfish/exampleSite/content/users/97-a8ae3ddde64e0cd053837877522e2373/index.pt-br.md",
+    "themes/blowfish/exampleSite/content/users/97-a8ae3ddde64e0cd053837877522e2373/index.md",
+    "themes/blowfish/exampleSite/content/users/97-a8ae3ddde64e0cd053837877522e2373/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/97-a8ae3ddde64e0cd053837877522e2373/index.it.md",
+    "themes/blowfish/exampleSite/content/users/97-a8ae3ddde64e0cd053837877522e2373/index.fr.md"
   ]
 }
