@@ -1,0 +1,12 @@
+colorScheme = "ocean"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+[homepage]
+layout = "profile"
+showRecent = true
+showRecentItems = 5
+
+[author]
+name = "Angelus Selenius"
+headline = "Uno más en este mundo"
