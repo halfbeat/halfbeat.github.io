@@ -43,7 +43,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-publish-devto:
+  publish-devto:
     runs-on: ubuntu-latest
     needs: deploy
     steps:
