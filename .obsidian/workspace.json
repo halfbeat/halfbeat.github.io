@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/primer-post.md",
+                "file": "content/posts/puedo-llegar-mas-lejos.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "primer-post"
+              "title": "puedo-llegar-mas-lejos"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/primer-post.md",
+                "file": "content/posts/puedo-llegar-mas-lejos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de primer-post"
+              "title": "Enlaces entrantes de puedo-llegar-mas-lejos"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/primer-post.md",
+                "file": "content/posts/puedo-llegar-mas-lejos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de primer-post"
+              "title": "Enlaces salientes de puedo-llegar-mas-lejos"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/primer-post.md",
+                "file": "content/posts/puedo-llegar-mas-lejos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de primer-post"
+              "title": "Esquema de puedo-llegar-mas-lejos"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "11ee6864b608823d",
   "lastOpenFiles": [
-    "content/posts/puedo-llegar-mas-lejos.md",
     "content/posts/primer-post.md",
+    "content/posts/puedo-llegar-mas-lejos.md",
     "public/js/main.bundle.min.fef019b6dbf2c8a5f03bde7b069135c4b35fd364d9960a16c6dfafbfbb52e8364310f4bfc6f2374575c0b6fb476219636a8b887a7a81a242326e7d1d33251be5.js",
     "public/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
     "public/css/main.bundle.min.8b635699ff201db155d7e239930418611b7de415f50e04c952a897ef057a60acc1a135b3379030909274ceb51225168bdc21ee027c91668514f7a6bb5066d9b6.css",
